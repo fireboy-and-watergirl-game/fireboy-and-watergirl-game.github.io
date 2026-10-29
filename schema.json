@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "https://funny-shooter2.github.io/#website",
+      "url": "https://funny-shooter2.github.io/",
+      "name": "Funny Shooter 2 Unblocked",
+      "description": "Play Funny Shooter 2 Unblocked online for free in your browser.",
+      "inLanguage": "en-US"
+    },
+    {
+      "@type": "WebApplication",
+      "@id": "https://funny-shooter2.github.io/#game",
+      "name": "Funny Shooter 2 Unblocked",
+      "description": "Funny Shooter 2 is an action-packed 3D first-person shooter (FPS) game where players fight absurd waves of goofy enemies using an extensive arsenal of customizable weapons.",
+      "genre": [
+        "Action",
+        "FPS",
+        "Shooter",
+        "3D Game",
+        "Survival"
+      ],
+      "gamePlatform": "Web Browser",
+      "applicationCategory": "Game",
+      "operatingSystem": "Any",
+      "url": "https://funny-shooter2.github.io/",
+      "image": "https://funny-shooter2.github.io/img/funny-shooter-2.jpg",
+      "author": {
+        "@type": "Person",
+        "name": "GoGoMan"
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "bestRating": "5",
+        "ratingCount": "5840"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://funny-shooter2.github.io/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is Funny Shooter 2 Unblocked?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Funny Shooter 2 Unblocked is a fast-paced, hilarious 3D first-person shooter (FPS) web game where players battle waves of absurd, bizarre creatures across vibrant arenas using an array of powerful weapons."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I play Funny Shooter 2 Unblocked at school or work?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes! Funny Shooter 2 is built using modern HTML5 WebGL technology and hosted without restrictions, allowing you to play instantly in your browser on Chromebooks, PCs, and school networks without downloading files or installing extensions."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do you control the character in Funny Shooter 2?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Move with W, A, S, D or Arrow keys, look and aim with the mouse, Left Click to shoot, Right Click to zoom / aim down sights, Spacebar to jump, Left Shift to sprint, R to reload, and 1-9 or mouse wheel to switch weapons."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What weapons are available in Funny Shooter 2?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Funny Shooter 2 features a huge arsenal of over 10 weapons including pistols, assault rifles, shotguns, sniper rifles, RPG rocket launchers, grenade launchers, bazookas, and melee weapons with unlockable upgrades, sights, silencers, and skins."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Funny Shooter 2 free to play?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, Funny Shooter 2 is 100% free to play directly in your web browser with all weapons, levels, and features accessible without payments or registrations."
+          }
+        }
+      ]
+    }
+  ]
+}
